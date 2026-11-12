@@ -17,3 +17,7 @@ export default function RootLayout({
     </html>
   );
 }
+export const metadata = {
+  title: "NextBites · Quick recipes",
+  description: "A tiny recipe app built with Next.js.",
+};
